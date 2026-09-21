@@ -1,70 +1,74 @@
-# 📦 Power BI Project: Inventory & Supply Chain Analysis | End-to-End Dashboard
+# Inventory & Supply Chain Analysis | Power BI
 
-Managing inventory and ensuring an efficient supply chain are critical for business success. In this Power BI project, we dive deep into stock management, demand forecasting, supplier performance, and logistics optimization — building a fully interactive dashboard that mirrors real-world operations.
+## 📌 Project Overview
 
----
+This project focuses on analyzing inventory and supply chain operations using
+Power BI. The dashboard brings together inventory, product, supplier, sales,
+and logistics-related data to provide a consolidated view of operational
+performance.
 
-## 🚀 Project Highlights
-
-In this project, you’ll learn how to:
-- 🧹 **Data Cleaning & Transformation**: Use Power Query to clean and model supply chain datasets.
-- 📦 **Inventory Metrics**: Track stock levels, turnover rates, reorder points, and backorders.
-- 🚚 **Supply Chain KPIs**: Analyze lead times, delivery performance, and supplier reliability.
-- 🔢 **Advanced DAX Calculations**: Build actionable insights for procurement and operations.
-- 📊 **Professional Dashboard Design**: Create an executive-level dashboard with interactive visuals.
-- 🗺️ **Real-World Storytelling Techniques**: Present supply chain data effectively for business stakeholders.
+The objective was to transform raw supply chain data into an interactive
+business intelligence dashboard that can help identify inventory issues,
+supplier performance patterns, and areas requiring operational attention.
 
 ---
 
-## 🎥 Full Video Tutorial
+## 🎯 Business Objectives
 
-📺 [Watch the Full Tutorial Here](https://youtu.be/Gu583PXJDpY)
+The analysis focuses on answering questions such as:
 
----
-
-## 🛠 Getting Started
-
-To work on this project:
-1. **Clone or fork** this repository.
-2. Open the `.pbix` file with **Power BI Desktop**.
-3. Download the provided datasets or connect your own inventory and supply chain data.
-4. Follow the tutorial to build your dashboard step-by-step.
----
-
-## 🎯 Who Should Use This Project?
-
-- 📊 **Power BI Users** & **Business Intelligence Professionals**
-- 🏭 **Supply Chain Managers** & **Inventory Analysts**
-- ⚙️ **Operations Managers** optimizing logistics performance
-- 🎓 **Students & Job Seekers** building a strong Power BI portfolio
+- How is inventory performing across different products and categories?
+- Which products contribute most to overall demand and inventory levels?
+- How are suppliers performing in terms of delivery and lead time?
+- Where are potential inventory shortages or excess-stock situations?
+- What patterns can be observed in supply chain and logistics performance?
+- Which operational areas may require further investigation?
 
 ---
 
-## 📢 Stay Connected
+## 📊 Dashboard
 
-👍 Like the video if you found it valuable!  
-💬 Comment your thoughts or dashboard ideas!  
-🔔 Subscribe for more Power BI projects, business analytics tutorials, and real-world case studies.
+The Power BI dashboard provides an interactive view of the supply chain
+through multiple KPIs and visualizations.
 
----
+### Key Areas Covered
 
-## 🌐 Visit Pianalytix for More Resources
+- Inventory Performance
+- Product Analysis
+- Supplier Performance
+- Stock & Demand Analysis
+- Logistics and Lead-Time Analysis
+- Supply Chain KPIs
 
-🔗 **Website**: [https://pianalytix.com](https://pianalytix.com)  
-Explore 300+ real-world projects in Data Science, Power BI, and Development.
-
----
-
-## 📲 Connect with Pianalytix:
-
-✅ **Instagram**: [@pianalytix.official](https://www.instagram.com/pianalytix.official/)  
-✅ **LinkedIn**: [Pianalytix](https://www.linkedin.com/company/pianalytix/)  
-✅ **YouTube**: [@pianalytixofficial](https://m.youtube.com/@pianalytixofficial)
+The dashboard allows users to interact with the data using filters and
+visuals to explore different products, suppliers, and operational metrics.
 
 ---
 
-## 📘 Explore Our Udemy Courses:
+## 🛠️ Tools & Technologies
 
-- 📌 [Build 45 Real-World Power BI Projects for BI & Data Analysts](https://www.udemy.com/course/data-analytics-course-power-bi-tableau/?couponCode=NOV2024)  
-- 📌 [Data Science Bundle: 180 Hands-On Projects](https://www.udemy.com/course/data-science-projects-mastering-the-real-life-analytics/?couponCode=NOV2024)  
-- 📌 [100 Days of Code: Real-World Data Science Projects Bootcamp](https://www.udemy.com/course/hands-on-data-science-build-real-world-projects/?couponCode=NOV2024)
+- **Power BI**
+- **Power Query**
+- **DAX**
+- **Microsoft Excel / CSV**
+- **Data Visualization**
+- **Supply Chain Analytics**
+
+---
+
+## 🔄 Data Analysis Workflow
+
+The project follows a typical analytics workflow:
+
+```text
+Raw Dataset
+     ↓
+Data Cleaning & Transformation
+     ↓
+Data Modeling
+     ↓
+DAX Measures & KPIs
+     ↓
+Interactive Visualizations
+     ↓
+Business Insights
